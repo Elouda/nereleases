@@ -15,6 +15,7 @@ Every version is under [Releases](https://github.com/Elouda/nereleases/releases)
 with one archive per platform:
 
 | Platform | File |
+|---|---|
 | Windows (x64) | `NavalEstimates-<version>-win-x64.zip` |
 | macOS (Intel and Apple Silicon) | `NavalEstimates-<version>-mac-universal.zip` |
 | Linux (x64) | `NavalEstimates-<version>-linux-x64.tar.gz` |
